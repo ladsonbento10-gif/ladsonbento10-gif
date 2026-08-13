@@ -34,7 +34,6 @@ busca de oportunidades na área de Tecnologia**
 <img
 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"
 alt="Java" />
-<figcaption aria-hidden="true">Java</figcaption>
 </figure>
 
 ### 🗄️ Banco de Dados & Ferramentas
